@@ -7,15 +7,15 @@
 <h2 align=center>🔧 Stack</h2>
 <br>
 <div align=center>
-  <a href='#'><img src='/img/javascript.svg' width="48"></img></a>
-  <a href='#'><img src='/img/html5.svg' width="48"></img></a>
-  <a href='#'><img src='/img/css.svg' width="48"></img></a>
-  <a href='#'><img src='/img/react-original.svg' width="48"></img></a>
-  <a href='#'><img src='/img/redux.svg' width="48"></img></a>
-  <a href='#'><img src='/img/nodejs.svg' width="48"></img></a>
-  <a href='#'><img src='/img/postgresql.svg' width="48"></img></a>
-  <a href='#'><img src='/img/sequelize.svg' width="48"></img></a>
-  <a href='#'><img src='/img/jest.svg' width="48"></img></a>
+  <a href='#'><img src='/img/javascript.svg' width="48" height="48"></img></a>
+  <a href='#'><img src='/img/html5.svg' width="48" height="48"></img></a>
+  <a href='#'><img src='/img/css.svg' width="48" height="48"></img></a>
+  <a href='#'><img src='/img/react-original.svg' width="48" height="48"></img></a>
+  <a href='#'><img src='/img/redux.svg' width="48" height="48"></img></a>
+  <a href='#'><img src='/img/nodejs.svg' width="48" height="48"></img></a>
+  <a href='#'><img src='/img/postgresql.svg' width="48" height="48"></img></a>
+  <a href='#'><img src='/img/sequelize.svg' width="48" height="48"></img></a>
+  <a href='#'><img src='/img/jest.svg' width="48" height="48"></img></a>
 </div>
 
 ## My development plans:
