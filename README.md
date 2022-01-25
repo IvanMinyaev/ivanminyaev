@@ -1,16 +1,46 @@
-### Hi there 👋
+# Hello There! 👋 
+<br>
+<p align="center">
+  <h3>My name is Ivan and I'm a FullStack JS Developer 💻</h3> 
+<br>
 
-<!--
-**IvanMinyaev/ivanminyaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align=center>🔧 Stack</h2>
+<br>
+<div align=center>
+  <a href='#'><img src='/img/javascript.svg'></img></a>
+  <a href='#'><img src='/img/html5.svg'></img></a>
+  <a href='#'><img src='/img/css.svg'></img></a>
+  <a href='#'><img src='/img/react-original.svg'></img></a>
+  <a href='#'><img src='/img/redux.svg'></img></a>
+  <a href='#'><img src='/img/nodejs.svg'></img></a>
+  <a href='#'><img src='/img/postgresql.svg'></img></a>
+  <a href='#'><img src='/img/sequelize.svg'></img></a>
+  <a href='#'><img src='/img/jest.svg'></img></a>
+</div>
 
-Here are some ideas to get you started:
+## My development plans:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a name="learning-now"></a>
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue&logoColor=FFFFFF" alt="Vue.js logo" title="Vue.js" height="25" /><br>
+<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /><br>
+
+## To contact me:
+  
+<a name="telegram" href="https://t.me/minyaev_ivan"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
+<a name="gmail" href="mailto:minyaevmail@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
+
+  <br>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
