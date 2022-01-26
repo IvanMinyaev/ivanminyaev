@@ -8,8 +8,8 @@
 <br>
 <div align=center>
   <a href='#'><img src='/img/javascript.svg' width="48" height="48"></img></a>
-  <a href='#'><img src='/img/html5.svg' width="48" height="48"></img></a>
-  <a href='#'><img src='/img/css.svg' width="48" height="48"></img></a>
+  <a href='#'><img src='/img/html5.svg' width="53" height="53"></img></a>
+  <a href='#'><img src='/img/css.svg' width="56" height="56"></img></a>
   <a href='#'><img src='/img/react-original.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/redux.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/nodejs.svg' width="48" height="48"></img></a>
@@ -17,6 +17,13 @@
   <a href='#'><img src='/img/sequelize.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/jest.svg' width="48" height="48"></img></a>
 </div>
+
+Frontend: HTML5, CSS3, JavaScript, React, Redux, Saga, Thunk, Material UI, Bootstrap
+Backend: NodeJS, Express, Sessions, Bcrypt,
+DB: PostgreSQL, Sequelize ORM
+Testing: Jest
+Other: Git, GitHub, VS Code
+
 
 ## My development plans:
 
