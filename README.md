@@ -18,11 +18,11 @@
   <a href='#'><img src='/img/jest.svg' width="48" height="48"></img></a>
 </div>
 
-Frontend: HTML5, CSS3, JavaScript, React, Redux, Saga, Thunk, Material UI, Bootstrap
-Backend: NodeJS, Express
-DB: PostgreSQL, Sequelize ORM
-Testing: Jest
-Other: Git, GitHub, VS Code
+Frontend: HTML5, CSS3, JavaScript, React, Redux, Saga, Thunk, Material UI, Bootstrap <br>
+Backend: NodeJS, Express <br>
+DB: PostgreSQL, Sequelize ORM <br>
+Testing: Jest <br>
+Other: Git, GitHub, VS Code <br>
 
 
 ## My development plans:
