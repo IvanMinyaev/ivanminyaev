@@ -19,7 +19,7 @@
 </div>
 
 Frontend: HTML5, CSS3, JavaScript, React, Redux, Saga, Thunk, Material UI, Bootstrap
-Backend: NodeJS, Express, Sessions, Bcrypt,
+Backend: NodeJS, Express
 DB: PostgreSQL, Sequelize ORM
 Testing: Jest
 Other: Git, GitHub, VS Code
