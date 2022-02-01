@@ -17,6 +17,7 @@
   <a href='#'><img src='/img/sequelize.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/jest.svg' width="48" height="48"></img></a>
 </div>
+<br>
 
 Frontend: HTML5, CSS3, JavaScript, React, Redux, Saga, Thunk, Material UI, Bootstrap <br>
 Backend: NodeJS, Express <br>
