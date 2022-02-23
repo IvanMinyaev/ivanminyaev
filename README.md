@@ -19,12 +19,16 @@
   <a href='#'><img src='/img/sequelize.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/jest.svg' width="48" height="48"></img></a>
 </div>
+<br>
+
 
 Frontend: HTML5, CSS3, SCSS/SASS, JavaScript, React, Redux (Saga, Thunk), NEXT.JS,  Material UI, Bootstrap
 Backend: NodeJS, Express, Sessions, Bcrypt,
 DB: PostgreSQL, Sequelize ORM
 Testing: Jest
 Other: Git, GitHub, VS Code
+
+
 
 
 ## My development plans:
