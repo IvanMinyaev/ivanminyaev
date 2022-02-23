@@ -19,6 +19,8 @@
   <a href='#'><img src='/img/sequelize.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/jest.svg' width="48" height="48"></img></a>
 </div>
+<br>
+
 
 Frontend: HTML5, CSS3, SCSS/SASS, JavaScript, React, Redux (Saga, Thunk), NEXT.JS,  Material UI, Bootstrap
 Backend: NodeJS, Express, Sessions, Bcrypt,
@@ -26,7 +28,9 @@ DB: PostgreSQL, Sequelize ORM
 Other: Git, GitHub
 
 
+
 ## Now I'm studying:
+
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
