@@ -1,7 +1,7 @@
 # Hello There! 👋 
 <br>
 <p align="center">
-  <h3>My name is Ivan and I'm a FullStack JS Developer 💻</h3> 
+  <h3>My name is Ivan and I'm a Frontend JS Developer 💻</h3> 
 <br>
 
 <h2 align=center>🔧 Stack</h2>
@@ -22,20 +22,20 @@
 <br>
 
 
-Frontend: HTML5, CSS3, SCSS/SASS, JavaScript, React, Redux (Saga, Thunk), NEXT.JS,  Material UI, Bootstrap
-Backend: NodeJS, Express, Sessions, Bcrypt,
-DB: PostgreSQL, Sequelize ORM
-Testing: Jest
-Other: Git, GitHub, VS Code
+Frontend: HTML5, CSS3, SCSS/SASS, JavaScript, React, Redux (Saga, Thunk), NEXT.JS,  Material UI, Bootstrap 
+Backend: NodeJS, Express, Sessions, Bcrypt, 
+DB: PostgreSQL, Sequelize ORM 
+Other: Git, GitHub 
 
 
 
+## Now I'm studying:
 
-## My development plans:
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /><br>
+<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+<img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=8DD6F9" alt="Webpack logo" title="Webpack" height="25" /><br>
 
 ## To contact me:
   
@@ -50,7 +50,7 @@ Other: Git, GitHub, VS Code
 
 
 
-
+   
 
 
 
