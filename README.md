@@ -10,6 +10,7 @@
   <a href='#'><img src='/img/javascript.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/html5.svg' width="53" height="53"></img></a>
   <a href='#'><img src='/img/css.svg' width="56" height="56"></img></a>
+  <a href='#'><img src='/img/icons8-sass.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/react-original.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/redux.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/next-js.svg' width="48" height="48"></img></a>
