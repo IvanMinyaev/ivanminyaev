@@ -10,8 +10,10 @@
   <a href='#'><img src='/img/javascript.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/html5.svg' width="53" height="53"></img></a>
   <a href='#'><img src='/img/css.svg' width="56" height="56"></img></a>
+  <a href='#'><img src='/img/icons8-sass.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/react-original.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/redux.svg' width="48" height="48"></img></a>
+  <a href='#'><img src='/img/next-js.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/nodejs.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/postgresql.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/sequelize.svg' width="48" height="48"></img></a>
@@ -19,18 +21,20 @@
 </div>
 <br>
 
-Frontend: HTML5, CSS3, JavaScript, React, Redux, Saga, Thunk, Material UI, Bootstrap <br>
-Backend: NodeJS, Express <br>
-DB: PostgreSQL, Sequelize ORM <br>
-Testing: Jest <br>
-Other: Git, GitHub, VS Code <br>
+
+Frontend: HTML5, CSS3, SCSS/SASS, JavaScript, React, Redux (Saga, Thunk), NEXT.JS,  Material UI, Bootstrap
+Backend: NodeJS, Express, Sessions, Bcrypt,
+DB: PostgreSQL, Sequelize ORM
+Testing: Jest
+Other: Git, GitHub, VS Code
+
+
 
 
 ## My development plans:
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue&logoColor=FFFFFF" alt="Vue.js logo" title="Vue.js" height="25" /><br>
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /><br>
 
 ## To contact me:
