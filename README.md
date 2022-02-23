@@ -23,7 +23,7 @@
 
 
 Frontend: HTML5, CSS3, SCSS/SASS, JavaScript, React, Redux (Saga, Thunk), NEXT.JS,  Material UI, Bootstrap
-Backend: NodeJS, Express, Sessions, Bcrypt,
+Backend: NodeJS, Express, Sessions, Bcrypt
 DB: PostgreSQL, Sequelize ORM
 Other: Git, GitHub
 
