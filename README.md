@@ -3,9 +3,10 @@
 <p align="center">
   <h3>My name is Ivan and I'm a Backend Node.JS Developer 💻</h3> 
 <br>
+<img src=https://komarev.com/ghpvc/?username = ivanminyaev/>
 
 <h2 align=center>🔧 Stack</h2>
-<br>
+<!-- <br>
 <div align=center>
   <a href='#'><img src='/img/javascript.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/html5.svg' width="53" height="53"></img></a>
@@ -19,17 +20,18 @@
   <a href='#'><img src='/img/sequelize.svg' width="48" height="48"></img></a>
   <a href='#'><img src='/img/jest.svg' width="48" height="48"></img></a>
 </div>
-<br>
+<br> -->
 
 
+Main: JavaScript, TypeScript
 
-Frontend: HTML5, CSS3, SCSS/SASS, JavaScript, React, Redux (Saga, Thunk), NEXT.JS,  Material UI, Bootstrap <br>
+Frontend: HTML5, CSS3, SCSS/SASS, React, Redux (Saga, Thunk), NEXT.JS,  Material UI, Bootstrap <br>
 
-Backend: NodeJS, Express, Sessions, Bcrypt <br>
+Backend: NodeJS, Express, Nest.JS  <br>
 
-DB: PostgreSQL, Sequelize ORM <br>
+DB: PostgreSQL, MongoDB, Sequelize ORM  <br>
 
-Other: Git, GitHub <br>
+Other: Git, GitHub, Bitbucket, Confluence, Jira, Swagger, Docker, Webpack, WebSocket <br>
 
 
 
@@ -40,7 +42,6 @@ Other: Git, GitHub <br>
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
-<img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=8DD6F9" alt="Webpack logo" title="Webpack" height="25" /><br>
 
 ## To contact me:
   
