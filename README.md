@@ -3,7 +3,7 @@
 <p align="center">
   <h3>My name is Ivan and I'm a Backend Node.JS Developer 💻</h3> 
 <br>
-<img src=https://komarev.com/ghpvc/?username = ivanminyaev/>
+![](https://komarev.com/ghpvc/?username=ivanminyaev)
 
 <h2 align=center>🔧 Stack</h2>
 <!-- <br>
