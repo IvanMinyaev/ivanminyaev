@@ -27,21 +27,19 @@ Main: JavaScript, TypeScript
 
 Frontend: HTML5, CSS3, SCSS/SASS, React, Redux (Saga, Thunk), NEXT.JS,  Material UI, Bootstrap <br>
 
-Backend: NodeJS, Express, Nest.JS  <br>
+Backend: NodeJS, Express, Nest.JS, WebSocket  <br>
 
 DB: PostgreSQL, MongoDB, Sequelize ORM  <br>
 
-Other: Git, GitHub, Bitbucket, Confluence, Jira, Swagger, Docker, Webpack, WebSocket <br>
+Other: Git, GitHub, Bitbucket, Confluence, Jira, Swagger, Docker, Webpack <br>
 
 
 
 
 ## Now I'm studying:
 
+RabbitMq, GraphQL, GRPc
 
-<a name="learning-now"></a>
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
 
 ## To contact me:
   
