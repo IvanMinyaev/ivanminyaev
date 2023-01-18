@@ -1,7 +1,7 @@
 # Hello There! 👋 
 <br>
 <p align="center">
-  <h3>My name is Ivan and I'm a Backend / FullStack Node.JS Developer 💻</h3> 
+  <h3>My name is Ivan and I'm a JavaScript / TypeScript (Node, React) Developer 💻</h3> 
 <br>
 
 
