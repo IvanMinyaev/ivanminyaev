@@ -25,21 +25,13 @@
 
 Main: JavaScript, TypeScript
 
-Frontend: HTML5, CSS3, SCSS/SASS, React, Redux (Saga, Thunk), NEXT.JS,  Material UI, Bootstrap <br>
+Frontend: HTML5, CSS3, SCSS/SASS, React, Redux (Saga, Thunk), RTK, NEXT.JS, Material UI, Bootstrap <br>
 
-Backend: NodeJS, Express, Nest.JS, WebSocket  <br>
+Backend: NodeJS, Express, Nest.JS <br>
 
 DB: PostgreSQL, MongoDB, Sequelize ORM  <br>
 
-Other: Git, GitHub, Bitbucket, Confluence, Jira, Swagger, Docker, Webpack <br>
-
-
-
-
-## Now I'm studying:
-
-RabbitMq, GraphQL, GRPc
-
+Other: Git, GitHub, Bitbucket, Confluence, Jira, Swagger, Docker, Websocket, Webpack, Keycloak, Kubernetes, Jenkins <br>
 
 ## To contact me:
   
