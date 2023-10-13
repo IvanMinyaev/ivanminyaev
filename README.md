@@ -29,9 +29,9 @@ Frontend: HTML5, CSS3, SCSS/SASS, React, Redux (Saga, Thunk), RTK, NEXT.JS, Mate
 
 Backend: NodeJS, Express, Nest.JS <br>
 
-DB: PostgreSQL, MongoDB, Sequelize ORM  <br>
+DB: PostgreSQL, MongoDB, Sequelize ORM, Mongoose, Prisma ORM  <br>
 
-Other: Git, GitHub, Bitbucket, Confluence, Jira, Swagger, Docker, Websocket, Webpack, Keycloak, Kubernetes, Jenkins <br>
+Other: Git, GitHub, Bitbucket, Confluence, Jira, Swagger, Docker, Websocket, Webpack, Keycloak, Kubernetes, Jenkins, S3/MiniO <br>
 
 ## To contact me:
   
